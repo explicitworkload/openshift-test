@@ -1,4 +1,4 @@
-FROM debian:%%DEBIAN_VERSION%%-slim
+FROM debian:bookworm-slim
 
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
